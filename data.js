@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.25810894984854826,
-        "pitch": -0.21335236882377018,
+        "yaw": 0.24736846214396735,
+        "pitch": -0.3502987428763191,
         "fov": 1.2933824216075565
       },
       "linkHotspots": [
@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": 1.0980710920826109,
           "pitch": 0.1096374397972717,
           "rotation": 7.853981633974483,
-          "target": "1-manuel-rocha---c-gulbenkian-"
+          "target": "1-m-rocha---gulbenkian-"
         }
       ],
       "infoHotspots": [
@@ -46,8 +46,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-manuel-rocha---c-gulbenkian-",
-      "name": "Manuel Rocha < > C. Gulbenkian ",
+      "id": "1-m-rocha---gulbenkian-",
+      "name": "M. Rocha < > Gulbenkian ",
       "levels": [
         {
           "tileSize": 256,
@@ -84,7 +84,7 @@ var APP_DATA = {
           "yaw": 0.26603058930519907,
           "pitch": 0.29544124192213594,
           "rotation": 0,
-          "target": "2-ed-caloust-gulbenkian"
+          "target": "2-ed-calouste-gulbenkian"
         },
         {
           "yaw": 1.5649176517868568,
@@ -96,8 +96,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-ed-caloust-gulbenkian",
-      "name": "Ed Caloust Gulbenkian",
+      "id": "2-ed-calouste-gulbenkian",
+      "name": "Ed. Calouste Gulbenkian",
       "levels": [
         {
           "tileSize": 256,
@@ -119,22 +119,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.013402806375070853,
-        "pitch": -0.04564879135086031,
-        "fov": 1.2933824216075565
+        "yaw": -0.046837902062883074,
+        "pitch": -0.21663894072011836,
+        "fov": 0.8359304171167227
       },
       "linkHotspots": [
         {
           "yaw": 0.02674838009228253,
           "pitch": 0.03802518555455059,
           "rotation": 0,
-          "target": "4-geotecnia"
+          "target": "4-dpt-geotecnia"
         },
         {
           "yaw": -2.928728889136922,
           "pitch": 0.15810680028092605,
           "rotation": 5.497787143782138,
-          "target": "1-manuel-rocha---c-gulbenkian-"
+          "target": "1-m-rocha---gulbenkian-"
         }
       ],
       "infoHotspots": [
@@ -170,23 +170,23 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.8392798636499208,
-        "pitch": 0.04129798019978281,
-        "fov": 1.2933824216075565
+        "yaw": 0.01037693477049828,
+        "pitch": 0.1254059400255496,
+        "fov": 0.7602205740192575
       },
       "linkHotspots": [
         {
-          "yaw": -1.6331647324374892,
-          "pitch": 0.32555914197498836,
-          "rotation": 0.7853981633974483,
-          "target": "1-manuel-rocha---c-gulbenkian-"
+          "yaw": -0.5818849555811454,
+          "pitch": 0.21708308710172375,
+          "rotation": 4.71238898038469,
+          "target": "1-m-rocha---gulbenkian-"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-geotecnia",
-      "name": "Geotecnia",
+      "id": "4-dpt-geotecnia",
+      "name": "Dpt. Geotecnia",
       "levels": [
         {
           "tileSize": 256,
@@ -208,29 +208,29 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.1489978125272362,
-        "pitch": -0.05290127273703682,
-        "fov": 1.2933824216075565
+        "yaw": 0.35623940841765567,
+        "pitch": 0.044174859546540546,
+        "fov": 1.1378679252634418
       },
       "linkHotspots": [
         {
           "yaw": -2.0599175919386,
           "pitch": 0.017063537599732115,
           "rotation": 10.995574287564278,
-          "target": "5-ricardos-messy-office"
+          "target": "5-my-messy-office"
         },
         {
-          "yaw": -0.062146060331699005,
-          "pitch": 0.4374559462584884,
+          "yaw": 0.24820615486176223,
+          "pitch": 0.4830260882413828,
           "rotation": 0,
-          "target": "2-ed-caloust-gulbenkian"
+          "target": "2-ed-calouste-gulbenkian"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-ricardos-messy-office",
-      "name": "Ricardos messy office",
+      "id": "5-my-messy-office",
+      "name": "My messy office",
       "levels": [
         {
           "tileSize": 256,
@@ -258,10 +258,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.065282055834385,
-          "pitch": 0.1410230801734471,
-          "rotation": 5.497787143782138,
-          "target": "4-geotecnia"
+          "yaw": 2.0236823244204523,
+          "pitch": 0.11592105036178424,
+          "rotation": 6.283185307179586,
+          "target": "4-dpt-geotecnia"
         }
       ],
       "infoHotspots": []
